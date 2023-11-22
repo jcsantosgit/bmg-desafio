@@ -1,0 +1,15 @@
+/home/joao/Projects/bmg-teste-app/BmgMultipleNumber.Application/bin/Debug/net7.0/BmgMultipleNumber.Application.deps.json
+/home/joao/Projects/bmg-teste-app/BmgMultipleNumber.Application/bin/Debug/net7.0/BmgMultipleNumber.Application.dll
+/home/joao/Projects/bmg-teste-app/BmgMultipleNumber.Application/bin/Debug/net7.0/BmgMultipleNumber.Application.pdb
+/home/joao/Projects/bmg-teste-app/BmgMultipleNumber.Application/bin/Debug/net7.0/BmgMultipleNumber.Domain.dll
+/home/joao/Projects/bmg-teste-app/BmgMultipleNumber.Application/bin/Debug/net7.0/BmgMultipleNumber.Domain.pdb
+/home/joao/Projects/bmg-teste-app/BmgMultipleNumber.Application/obj/Debug/net7.0/BmgMultipleNumber.Application.csproj.AssemblyReference.cache
+/home/joao/Projects/bmg-teste-app/BmgMultipleNumber.Application/obj/Debug/net7.0/BmgMultipleNumber.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/joao/Projects/bmg-teste-app/BmgMultipleNumber.Application/obj/Debug/net7.0/BmgMultipleNumber.Application.AssemblyInfoInputs.cache
+/home/joao/Projects/bmg-teste-app/BmgMultipleNumber.Application/obj/Debug/net7.0/BmgMultipleNumber.Application.AssemblyInfo.cs
+/home/joao/Projects/bmg-teste-app/BmgMultipleNumber.Application/obj/Debug/net7.0/BmgMultipleNumber.Application.csproj.CoreCompileInputs.cache
+/home/joao/Projects/bmg-teste-app/BmgMultipleNumber.Application/obj/Debug/net7.0/BmgMultipleNumber.Application.csproj.CopyComplete
+/home/joao/Projects/bmg-teste-app/BmgMultipleNumber.Application/obj/Debug/net7.0/BmgMultipleNumber.Application.dll
+/home/joao/Projects/bmg-teste-app/BmgMultipleNumber.Application/obj/Debug/net7.0/refint/BmgMultipleNumber.Application.dll
+/home/joao/Projects/bmg-teste-app/BmgMultipleNumber.Application/obj/Debug/net7.0/BmgMultipleNumber.Application.pdb
+/home/joao/Projects/bmg-teste-app/BmgMultipleNumber.Application/obj/Debug/net7.0/ref/BmgMultipleNumber.Application.dll
