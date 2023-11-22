@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j2nsG2JUPyFlA+xdmSXHH6ZTisufWE5fR/+nYwTQjqEgph8hT3EUSewXFq7cn6Gyz49QYhuYC+ivmqx1fh0Jlw==",
+  "dgSpecHash": "o5rfyhcpHCx4TnB+6fLnBhoiQ9XO2A+Rqz77r210DkAlEya5h4EyK2bR/4yj1l2IQ03vhEQx8Gsey3RjHWvCpA==",
   "success": true,
-  "projectFilePath": "/home/joao/Projects/bmg-teste-app/BmgMultipleNumber.Application/BmgMultipleNumber.Application.csproj",
+  "projectFilePath": "C:\\Projects\\bmg-desafio\\BmgMultipleNumber.Application\\BmgMultipleNumber.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

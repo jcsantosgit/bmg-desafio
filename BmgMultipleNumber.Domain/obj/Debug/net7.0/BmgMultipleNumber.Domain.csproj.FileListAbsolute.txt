@@ -9,3 +9,14 @@
 /home/joao/Projects/bmg-teste-app/BmgMultipleNumber.Domain/obj/Debug/net7.0/refint/BmgMultipleNumber.Domain.dll
 /home/joao/Projects/bmg-teste-app/BmgMultipleNumber.Domain/obj/Debug/net7.0/BmgMultipleNumber.Domain.pdb
 /home/joao/Projects/bmg-teste-app/BmgMultipleNumber.Domain/obj/Debug/net7.0/ref/BmgMultipleNumber.Domain.dll
+C:\Projects\bmg-desafio\BmgMultipleNumber.Domain\bin\Debug\net7.0\BmgMultipleNumber.Domain.deps.json
+C:\Projects\bmg-desafio\BmgMultipleNumber.Domain\bin\Debug\net7.0\BmgMultipleNumber.Domain.dll
+C:\Projects\bmg-desafio\BmgMultipleNumber.Domain\bin\Debug\net7.0\BmgMultipleNumber.Domain.pdb
+C:\Projects\bmg-desafio\BmgMultipleNumber.Domain\obj\Debug\net7.0\BmgMultipleNumber.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\bmg-desafio\BmgMultipleNumber.Domain\obj\Debug\net7.0\BmgMultipleNumber.Domain.AssemblyInfoInputs.cache
+C:\Projects\bmg-desafio\BmgMultipleNumber.Domain\obj\Debug\net7.0\BmgMultipleNumber.Domain.AssemblyInfo.cs
+C:\Projects\bmg-desafio\BmgMultipleNumber.Domain\obj\Debug\net7.0\BmgMultipleNumber.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\bmg-desafio\BmgMultipleNumber.Domain\obj\Debug\net7.0\BmgMultipleNumber.Domain.dll
+C:\Projects\bmg-desafio\BmgMultipleNumber.Domain\obj\Debug\net7.0\refint\BmgMultipleNumber.Domain.dll
+C:\Projects\bmg-desafio\BmgMultipleNumber.Domain\obj\Debug\net7.0\BmgMultipleNumber.Domain.pdb
+C:\Projects\bmg-desafio\BmgMultipleNumber.Domain\obj\Debug\net7.0\ref\BmgMultipleNumber.Domain.dll
