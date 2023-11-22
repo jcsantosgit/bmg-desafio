@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BmgMultipleNumber.Applicati
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BmgMultipleNumber.Domain", "BmgMultipleNumber.Domain\BmgMultipleNumber.Domain.csproj", "{BF71798C-C67E-4BE1-AEE5-09DF651011FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BmgMultipleNumber.Tests", "BmgMultipleNumber.Tests\BmgMultipleNumber.Tests.csproj", "{7568809B-91BE-4AF2-BA1B-D2E7F22D9CDA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{BF71798C-C67E-4BE1-AEE5-09DF651011FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF71798C-C67E-4BE1-AEE5-09DF651011FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF71798C-C67E-4BE1-AEE5-09DF651011FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7568809B-91BE-4AF2-BA1B-D2E7F22D9CDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7568809B-91BE-4AF2-BA1B-D2E7F22D9CDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7568809B-91BE-4AF2-BA1B-D2E7F22D9CDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7568809B-91BE-4AF2-BA1B-D2E7F22D9CDA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
