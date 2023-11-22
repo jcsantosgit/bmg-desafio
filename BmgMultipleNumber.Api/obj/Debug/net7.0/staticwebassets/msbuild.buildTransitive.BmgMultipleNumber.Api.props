@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\BmgMultipleNumber.Api.props" />
-</Project>
